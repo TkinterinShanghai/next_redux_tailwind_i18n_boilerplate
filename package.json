@@ -10,6 +10,8 @@
     "buildcss": "npx tailwindcss -i styles/globals.css -o styles/styles.output.css --minify --watch"
   },
   "dependencies": {
+    "@headlessui/react": "^1.5.0",
+    "@heroicons/react": "^1.0.5",
     "@reduxjs/toolkit": "^1.7.2",
     "autoprefixer": "^10.4.2",
     "next": "12.1.0",
